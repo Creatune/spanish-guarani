@@ -19,7 +19,7 @@
 
 import os
 from gettext import gettext as _
-from ConfigParser import SafeConfigParser
+from configparser import SafeConfigParser
 
 import gi
 gi.require_version('Gtk', '3.0')

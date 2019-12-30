@@ -19,7 +19,7 @@ pygtk.require('2.0')
 import logging
 
 from gettext import gettext as _
-from ConfigParser import SafeConfigParser
+from configparser import SafeConfigParser
 
 class Base():
 
